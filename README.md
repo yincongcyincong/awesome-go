@@ -330,6 +330,8 @@ _Libraries for building and working with bots._
 - [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 - [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+- [telegram-deepseek-bot](https://github.com/yincongcyincong/telegram-deepseek-bot) - a telegram bot built with Golang that integrates with DeepSeek API to provide AI-powered responses.
+
 
 **[⬆ back to top](#contents)**
 
